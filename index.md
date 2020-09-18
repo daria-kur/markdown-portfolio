@@ -2,20 +2,22 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+# Markdowns
 
 <br>
 
-{% include 02-image.md %}
+![ce que j'aime](https://im0-tub-ru.yandex.net/i?id=538f37e2f1757de6eedde2dbf4b7e208&n=13)
 
 <br>
 
-{% include 03-links.md %}
+[mon repositoire](https://github.com/daria-kur/markdown-portfolio)
 
 <br>
 
-{% include 04-lists.md %}
+J'aime:
+* voyager
+* ecrire
 
 <br>
 
-{% include 05-emphasis.md %}
+Et **toi**, qu'est-ce que tu *aimes*?
