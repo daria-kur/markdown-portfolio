@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+J'aime:
+* lire des livres
+  *fantasy
+  *pieces de theatre
+*cuisiner
